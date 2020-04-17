@@ -1,0 +1,27 @@
+#top{
+    text-align: center;
+    
+}
+h1{
+    font-size: 36px;
+     font-weight: bold;
+     color: red;
+     text-decoration: underline;
+}
+p{
+    text-align: center;
+}
+.color{
+    color:blue;
+    text-decoration: underline;
+    line-height: 2em;
+
+}
+#bottom{
+    text-align: center;
+}
+#top{
+    background-color: aquamarine;
+    width: fit-content;
+    margin-left: 650px;
+}
